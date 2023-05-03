@@ -8,14 +8,6 @@ The project consists of the following folders:
 Term Paper : It contains complete latex template as well as term_paper.pdf: The written report that provides an in-depth analysis of the accuracy of different matching process models.
 Presentation : It contains presentation.pdf: The presentation slides that summarize the key findings and insights of the project.
 
- 
- Follow these steps.
- 1. Extract "Desktop-Application-Framework.zip" to desired location.
- 2. Goto path-to-folder/Desktop-Application-Framework/Frontend
- 3. Run command "pip install -r requirements.txt"
- 4. Run command "python algorithms_installer.py"
- 5. Run command "python DesktopApp.py"
-
  # Usage 
  To access the project files, simply navigate to the GitHub repository and download the files to your local machine. You can then open the files using your preferred software.
 
