@@ -6,6 +6,7 @@ This project is a term paper and presentation on the topic of Matching Process M
 The project consists of the following folders:
 
 Term Paper : It contains complete latex template as well as term_paper.pdf: The written report that provides an in-depth analysis of the accuracy of different matching process models.
+
 Presentation : It contains presentation.pdf: The presentation slides that summarize the key findings and insights of the project.
 
  # Usage 
